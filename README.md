@@ -22,7 +22,7 @@ The design emphasizes **green colors** to reflect the organization’s identity 
 - **Detailed survey reports**.
 - Advanced filtering and search.
 
-### 🔹 Users
+###  Users
 - View available surveys.
 - Participate in surveys online.
 - Personal dashboard showing the number of completed surveys.
@@ -76,13 +76,15 @@ The design emphasizes **green colors** to reflect the organization’s identity 
 
 ---
 
+---
+
+### **phospoll-architecture**
+<img width="1024" height="1536" alt="archiPhosPoll" src="https://github.com/user-attachments/assets/c415ddb6-b76a-4de0-b336-9cf6954036ed" />
+
 ##  Installation
 
 1. **Clone the project**
 ```bash
 git clone https://github.com/your-username/PhosPoll.git
 
----
 
-### **phospoll-architecture**
-<img width="1024" height="1536" alt="archiPhosPoll" src="https://github.com/user-attachments/assets/c415ddb6-b76a-4de0-b336-9cf6954036ed" />
