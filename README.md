@@ -83,7 +83,7 @@ The design emphasizes **green colors** to reflect the organization’s identity 
 
 ---
 ### **Demo**
-[https://github.com/ElOuahiNajat](https://www.youtube.com/watch?v=7amGfecTrnw&feature=youtu.be)
+https://www.youtube.com/watch?v=7amGfecTrnw&feature=youtu.be
 
 ##  Installation
 
